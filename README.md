@@ -1,6 +1,8 @@
 <!-- Profile Banner (optional but eye-catching) -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4e54c8,8f94fb&height=200&section=header&text=Sabarivasan%20S&fontSize=40&fontColor=ffffff" alt="header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=200&section=header&text=Sabarivasan%20S&fontSize=40&fontColor=ffffff" alt="header" />
+</p>
 </p>
 
 ### 👋 Hello World! I'm Sabarivasan S
