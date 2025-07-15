@@ -1,6 +1,6 @@
 <!-- Profile Banner (optional but eye-catching) -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4e54c8,8f94fb&height=200&section=header&text=Sabarivasan%20S&fontSize=40&fontColor=ffffff" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=11998e,38ef7d&height=200&section=header&text=Sabarivasan%20S&fontSize=40&fontColor=ffffff" alt="header" />
 </p>
 
 ### 👋 Hello World! I'm Sabarivasan S
@@ -23,13 +23,13 @@ I'm a passionate Full Stack Web Developer from India 🇮🇳, experienced in bu
 
 ### 🛠️ Projects Spotlight
 
-- 🚀 [**BookReview App**](https://github.com/sabarivasan216/book-review-app)  
+- 🚀 [**BookReview platform**](https://github.com/sabarivasan216/BookReviewPlatform)  
   User-auth system with review submission, star ratings & filtering.
 
-- 🎨 [**Theme Generator for Android UI**](https://github.com/sabarivasan216/theme-generator)  
+- 🎨 [**Theme changer UI**](https://github.com/sabarivasan216/theme-changer)  
   AI-driven Android theme creator based on user images.
 
-- 📊 [**Analytics Dashboard with Chartist.js**](https://github.com/sabarivasan216/dashboard-analytics)  
+- 📊 [**Students information(sdk/cli)**](https://github.com/sabarivasan216/students_data)  
   Responsive dashboard with real-time analytics and custom tooltips.
 
 ---
@@ -56,8 +56,3 @@ I'm a passionate Full Stack Web Developer from India 🇮🇳, experienced in bu
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sabarivasan216" alt="visitors"/>
 </p>
 
-
-<!---
-sabarivasan216/sabarivasan216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->![sabarivasan216's Stats](https://github-readme-stats.vercel.app/api?username=sabarivasan216&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
